@@ -25,6 +25,7 @@ This project implements a real-time Sign Language Recognition system using compu
    git clone https://github.com/Tejakonakalla/Sign-Language-Recognition-project.git
    cd Sign-Language-Recognition-project
 💡 Personal Note
+
 This project was explored to understand how computer vision and deep learning can help in real-time communication challenges—specifically for individuals who rely on sign language. I was curious to learn how CNNs perform on gesture-based data and how OpenCV helps in preprocessing. The journey involved working with image data, training models, and integrating everything into a functional recognizer. I also overcame Git and environment setup issues to confidently manage and deploy my code.
 
 I plan to expand this project by:
